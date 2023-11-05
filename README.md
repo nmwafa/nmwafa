@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=""></h1>
+<h1 align="center">Hi There!</h1>
 
 <p align="center">I'm Nur Muhammad Wafa</p>
 
